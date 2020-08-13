@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm @realjema</h1>
-<h3 align="center">Trying to Keep it Simple & Stupid (KISS)</h3>
+![header](header.png)
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=realjema" alt="realjema" /> </p>
 
