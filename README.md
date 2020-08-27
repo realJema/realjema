@@ -1,7 +1,5 @@
-![header](header.png)
+![header](myheader.png)
 
-
-<p align="left"> <img src="www.native237.com" alt="realjema" /> </p>
 
 - 🔭 I’m currently working on [NATIVE](https://github.com/realJema/React-Playground.git)
 
