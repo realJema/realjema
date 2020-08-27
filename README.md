@@ -1,7 +1,7 @@
 ![header](header.png)
 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=realjema" alt="realjema" /> </p>
+<p align="left"> <img src="www.native237.com" alt="realjema" /> </p>
 
 - 🔭 I’m currently working on [NATIVE](https://github.com/realJema/React-Playground.git)
 
