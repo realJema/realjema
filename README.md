@@ -1,3 +1,5 @@
+![header](myheader.png)
+
 - 🔭 I’m currently working on [NATIVE](https://github.com/realJema/React-Playground.git)
 
 - 🌱 I’m currently learning **Python, Android, Reactjs, Graphic Design**
