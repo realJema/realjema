@@ -9,9 +9,9 @@
 
 - 🤝 I’m looking for help with [Angular](https://angular.io/)
 
-- 👨‍💻 All of my projects are available at [realjema.com](realjema.com)
+- 👨‍💻 All of my projects are available at [rjema.com](realjema.com)
 
-- 📝 I regulary write articles on [https://articles.realjema.com/](https://articles.realjema.com/)
+- 📝 I regulary write articles on [https://rjema.com/](https://rjema.com/)
 
 - 💬 Ask me about **Javascript, Wordpress, AI**
 
